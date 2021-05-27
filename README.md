@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sidrumade
 - 👀 I’m interested in computing
-- 🌱 I’m currently learning MCA
+- 🌱 I’m currently looking for job
 - 📫 How to reach me ...
 EMAIL - siddhesh.rumade.5@gmail.com
 
