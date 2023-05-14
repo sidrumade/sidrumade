@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sidrumade
-- 👀 I’m interested in computing
-- 🌱 I’m currently looking for job
+- 👀 I’m interested in full stack development
+- 🌱 I’m currently working at G-Square Solutions Pvt. Ltd.
 - 📫 How to reach me ...
 EMAIL - siddhesh.rumade.5@gmail.com
 
